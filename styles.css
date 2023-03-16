@@ -1,0 +1,45 @@
+body{
+  
+ background-image: url(https://media.istockphoto.com/id/1188324631/photo/stylish-abstract-white-simple-swirl-wavy-background-corporate-business-concept-for.jpg?b=1&s=170667a&w=0&k=20&c=hcXkzNkv27H_0YAHIt-AydFjw9frRCmG2ORtRDdyz9k=);
+ background-repeat: no-repeat;
+ background-size: cover;
+width: 1440px;
+background-color: hsl(220, 15%, 55%);
+
+
+}
+h2{
+   color: black;
+}
+p{
+   color: grey;
+   font-size: 15px;
+}
+
+.code{
+   width: 255px;
+   height: 250px;
+   border-radius: 10px;
+}
+
+.back{
+   margin: 100px 35%;
+   background-color:white;
+   border-radius: 20px;
+   padding: 10px;
+   padding-bottom: 30px;
+   text-align: center;  
+   font-size: medium;
+   height: 400px;
+   width: 260px;
+   font-size: 15px;
+   
+   
+}
+
+.go{
+   height:100%;
+   background-color: hsl(220, 15%, 55%);
+   margin: 10px 150px;  
+}
+
